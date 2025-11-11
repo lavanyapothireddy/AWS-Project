@@ -65,6 +65,7 @@ FROM 'sensors/temperature'
 A Lambda function is configured to trigger whenever new data is uploaded or a specific condition is met (e.g., temperature > 35°C).
 Example Lambda function in Python:
 
+```
 import json
 import boto3
 
@@ -84,6 +85,10 @@ def lambda_handler(event, context):
             payload=json.dumps(alert_msg)
         )
     return {"status": "processed"}
+```
+
+
+
 
 
 ### **5.Data Storage in S3:**
