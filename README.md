@@ -139,4 +139,4 @@ B.Tech – Computer Science and Engineering
 
 GitHub: https://github.com/lavanyapothireddy
 
-LinkedIn: https://www.linkedin.com/in/charan-charan-2bb059290
+LinkedIn: www.linkedin.com/in/pothireddy-lavanya-9505b5285
