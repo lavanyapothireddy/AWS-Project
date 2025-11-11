@@ -85,6 +85,7 @@ def lambda_handler(event, context):
         )
     return {"status": "processed"}
 
+
 ### **5.Data Storage in S3:**
 The IoT data is automatically stored in an S3 bucket, which can later be used for visualization or analytics using AWS QuickSight or Python tools.
 
